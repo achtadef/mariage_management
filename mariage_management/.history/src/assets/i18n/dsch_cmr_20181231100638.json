@@ -1,0 +1,68 @@
+{
+  "BACK_BUTTON_TEXT": "nzem",
+
+  "NAME": "lezing",
+  "EMAIL": "lezingMachin",
+  "USERNAME": "lezingNfag",
+  "PASSWORD": "",
+  "LOGIN": "",
+  "SIGNUP": "",
+
+  "TAB1_TITLE": "",
+  "TAB2_TITLE": "",
+  "TAB3_TITLE": "",
+
+  "MAP_TITLE": "",
+
+  "TUTORIAL_SKIP_BUTTON": "",
+  "TUTORIAL_CONTINUE_BUTTON": "",
+
+  "TUTORIAL_SLIDE1_TITLE": "Ionic Super Starter",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "<b>Ionic Super Starter</b>",
+
+  "TUTORIAL_SLIDE2_TITLE": "",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "",
+
+  "TUTORIAL_SLIDE3_TITLE": "",
+  "TUTORIAL_SLIDE3_DESCRIPTION": "",
+
+  "TUTORIAL_SLIDE4_TITLE": "",
+
+  "WELCOME_INTRO": "",
+
+  "SETTINGS_TITLE": "",
+  "SETTINGS_OPTION1": "1",
+  "SETTINGS_OPTION2": "2",
+  "SETTINGS_OPTION3": "3",
+  "SETTINGS_OPTION4": "4",
+
+  "SETTINGS_PROFILE_BUTTON": "",
+
+  "SETTINGS_PAGE_PROFILE": "",
+
+  "WELCOME_TITLE": "",
+
+  "LOGIN_TITLE": "",
+  "LOGIN_ERROR": "",
+  "LOGIN_BUTTON": "",
+  "SIGNUP_TITLE": "",
+  "SIGNUP_ERROR": "無法創建賬號。請檢查賬戶信息然後重試。",
+  "SIGNUP_BUTTON": "註 冊",
+
+  "LIST_MASTER_TITLE": "項目",
+
+  "ITEM_CREATE_TITLE": "新項目",
+  "ITEM_CREATE_CHOOSE_IMAGE": "添加圖片",
+
+  "ITEM_NAME_PLACEHOLDER": "名稱",
+  "ITEM_ABOUT_PLACEHOLDER": "關於",
+
+  "DONE_BUTTON": "完 成",
+  "CANCEL_BUTTON": "取 消",
+  "DELETE_BUTTON": "刪 除",
+
+  "CARDS_TITLE": "社交",
+
+  "SEARCH_TITLE": "搜索",
+  "SEARCH_PLACEHOLDER": "搜索項目列表, 例如：\"Donald Duck\""
+}

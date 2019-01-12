@@ -1,0 +1,68 @@
+{
+  "BACK_BUTTON_TEXT": "nzem",
+
+  "NAME": "lezing",
+  "EMAIL": "lezingMachin",
+  "USERNAME": "lezingNfag",
+  "PASSWORD": "",
+  "LOGIN": "",
+  "SIGNUP": "",
+
+  "TAB1_TITLE": "",
+  "TAB2_TITLE": "",
+  "TAB3_TITLE": "",
+
+  "MAP_TITLE": "",
+
+  "TUTORIAL_SKIP_BUTTON": "",
+  "TUTORIAL_CONTINUE_BUTTON": "",
+
+  "TUTORIAL_SLIDE1_TITLE": "Ionic Super Starter",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "<b>Ionic Super Starter</b>",
+
+  "TUTORIAL_SLIDE2_TITLE": "",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "",
+
+  "TUTORIAL_SLIDE3_TITLE": "",
+  "TUTORIAL_SLIDE3_DESCRIPTION": "",
+
+  "TUTORIAL_SLIDE4_TITLE": "",
+
+  "WELCOME_INTRO": "",
+
+  "SETTINGS_TITLE": "",
+  "SETTINGS_OPTION1": "1",
+  "SETTINGS_OPTION2": "2",
+  "SETTINGS_OPTION3": "3",
+  "SETTINGS_OPTION4": "4",
+
+  "SETTINGS_PROFILE_BUTTON": "",
+
+  "SETTINGS_PAGE_PROFILE": "",
+
+  "WELCOME_TITLE": "",
+
+  "LOGIN_TITLE": "",
+  "LOGIN_ERROR": "",
+  "LOGIN_BUTTON": "",
+  "SIGNUP_TITLE": "",
+  "SIGNUP_ERROR": "",
+  "SIGNUP_BUTTON": "",
+
+  "LIST_MASTER_TITLE": "",
+
+  "ITEM_CREATE_TITLE": "",
+  "ITEM_CREATE_CHOOSE_IMAGE": "",
+
+  "ITEM_NAME_PLACEHOLDER": "",
+  "ITEM_ABOUT_PLACEHOLDER": "",
+
+  "DONE_BUTTON": "",
+  "CANCEL_BUTTON": "",
+  "DELETE_BUTTON": "",
+
+  "CARDS_TITLE": "",
+
+  "SEARCH_TITLE": "",
+  "SEARCH_PLACEHOLDER": ""
+}
