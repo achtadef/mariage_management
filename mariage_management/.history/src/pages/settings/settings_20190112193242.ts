@@ -29,7 +29,7 @@ export class SettingsPage {
   };
 
   page: string = 'main';
-  language: string;
+  language: number;
   pageTitleKey: string = 'SETTINGS_TITLE';
   pageTitle: string;
 
@@ -51,7 +51,7 @@ export class SettingsPage {
 
     switch (this.page) {
       case 'main':
-        this.translate.use(this.language);
+        this.translate.use("yb");
         break;
       case 'profile':
         group = {

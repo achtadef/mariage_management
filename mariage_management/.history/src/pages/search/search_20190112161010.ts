@@ -16,7 +16,7 @@ export class SearchPage {
   constructor(public navCtrl: NavController, public navParams: NavParams, public guests: Guests) { }
 
   /**
-   * Perform a service for the proper guests.
+   * Perform a service for the proper items.
    */
   getGuests(ev) {
     let val = ev.target.value;
@@ -30,7 +30,7 @@ export class SearchPage {
   }
 
   /**
-   * Navigate to the detail page for this guest.
+   * Navigate to the detail page for this item.
    */
   openGuest(guest: Guest) {
     this.navCtrl.push('GuestDetailPage', {

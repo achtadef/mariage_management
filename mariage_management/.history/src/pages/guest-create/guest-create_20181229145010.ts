@@ -73,7 +73,7 @@ export class GuestCreatePage {
   }
 
   /**
-   * The user is done and wants to create the guest, so return it
+   * The user is done and wants to create the item, so return it
    * back to the presenter.
    */
   done() {

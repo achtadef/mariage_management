@@ -17,14 +17,14 @@ export class ListMasterPage {
   }
 
   /**
-   * The view loaded, let's query our guests for the list
+   * The view loaded, let's query our items for the list
    */
   ionViewDidLoad() {
   }
 
   /**
-   * Prompt the user to add a new guest. This shows our GuestCreatePage in a
-   * modal and then adds the new guest to our data source if the user created one.
+   * Prompt the user to add a new item. This shows our ItemCreatePage in a
+   * modal and then adds the new item to our data source if the user created one.
    */
   addGuest() {
     let addModal = this.modalCtrl.create('GuestCreatePage');
@@ -37,14 +37,14 @@ export class ListMasterPage {
   }
 
   /**
-   * Delete a guest from the list of guests.
+   * Delete an item from the list of items.
    */
   deleteGuest(guest) {
     this.guests.delete(guest);
   }
 
   /**
-   * Navigate to the detail page for this guest.
+   * Navigate to the detail page for this item.
    */
   openGuest(guest: Guest) {
     this.navCtrl.push('GuestDetailPage', {

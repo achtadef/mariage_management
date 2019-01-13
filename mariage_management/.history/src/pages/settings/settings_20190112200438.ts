@@ -29,7 +29,7 @@ export class SettingsPage {
   };
 
   page: string = 'main';
-  language: string;
+  language: number;
   pageTitleKey: string = 'SETTINGS_TITLE';
   pageTitle: string;
 
